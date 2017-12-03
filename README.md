@@ -11,3 +11,9 @@ http://darnleysgin2.users62.interdns.co.uk/
 
 3. **Pizza Pi** (in progress) - mobile app    
 Tech stack: React Native   
+
+## Interview tests
+
+1. **CakeLove**  
+Tech stack: React app on top of Node.js server, deployed with AWS CodePipeline to AWS Elastic Beanstalk
+https://github.com/Michael-Antczak/cakes
